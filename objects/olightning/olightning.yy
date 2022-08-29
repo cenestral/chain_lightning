@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sLightning",
-    "path": "sprites/sLightning/sLightning.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -32,7 +29,7 @@
     "path": "folders/objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oLightningType1",
+  "name": "oLightning",
   "tags": [],
   "resourceType": "GMObject",
 }

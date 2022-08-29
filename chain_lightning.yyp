@@ -1,13 +1,12 @@
 {
   "resources": [
-    {"id":{"name":"pHuman","path":"objects/pHuman/pHuman.yy",},"order":7,},
-    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":3,},
+    {"id":{"name":"pHuman","path":"objects/pHuman/pHuman.yy",},"order":4,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":2,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":0,},
+    {"id":{"name":"Lightning","path":"scripts/Lightning/Lightning.yy",},"order":3,},
     {"id":{"name":"sHuman","path":"sprites/sHuman/sHuman.yy",},"order":0,},
-    {"id":{"name":"sLightning","path":"sprites/sLightning/sLightning.yy",},"order":1,},
-    {"id":{"name":"oLightningType0","path":"objects/oLightningType0/oLightningType0.yy",},"order":1,},
-    {"id":{"name":"oLightningType1","path":"objects/oLightningType1/oLightningType1.yy",},"order":2,},
-    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":1,},
+    {"id":{"name":"oLightning","path":"objects/oLightning/oLightning.yy",},"order":1,},
+    {"id":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -23,11 +22,11 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"roomId":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},},
   ],
   "Folders": [
-    {"folderPath":"folders/objects.yy","order":11,"resourceVersion":"1.0","name":"objects","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/sprites.yy","order":12,"resourceVersion":"1.0","name":"sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/objects.yy","order":1,"resourceVersion":"1.0","name":"objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/sprites.yy","order":2,"resourceVersion":"1.0","name":"sprites","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
