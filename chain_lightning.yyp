@@ -3,9 +3,11 @@
     {"id":{"name":"pHuman","path":"objects/pHuman/pHuman.yy",},"order":4,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":2,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":0,},
+    {"id":{"name":"oHelper","path":"objects/oHelper/oHelper.yy",},"order":6,},
     {"id":{"name":"Lightning","path":"scripts/Lightning/Lightning.yy",},"order":3,},
     {"id":{"name":"sHuman","path":"sprites/sHuman/sHuman.yy",},"order":0,},
     {"id":{"name":"oLightning","path":"objects/oLightning/oLightning.yy",},"order":1,},
+    {"id":{"name":"Helper","path":"scripts/Helper/Helper.yy",},"order":5,},
     {"id":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},"order":0,},
   ],
   "Options": [

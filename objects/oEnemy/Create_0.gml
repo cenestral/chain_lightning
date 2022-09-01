@@ -1,2 +1,2 @@
 electrified = 0;
-hp = 3;
+hp = irandom_range(3,5);
